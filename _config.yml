@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Constellation Text | Best code editor for Unity
 description: Constellation Text is a best lightweight code editor for Unity. (3MB!)
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
